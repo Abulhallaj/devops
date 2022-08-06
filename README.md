@@ -1,2 +1,13 @@
-# dockerfile
-Run ./build.sh for creating image project:latest or run ./build.sh your_tag to specify image tag.
+dockerfiles
+===========
+
+A collection of delicious docker recipes.
+
+## Using build.sh
+Simply run the file for creating image **project:latest** 
+
+    ./build.sh
+
+or run as below to specify image **tag**.
+
+    ./build.sh your_tag
