@@ -1,8 +1,3 @@
-dockerfiles
-===========
-
-A collection of delicious docker recipes.
-
 ## Using build.sh
 Simply run the file for creating image **project:latest** 
 
